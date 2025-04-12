@@ -3,6 +3,7 @@ const accountData = [
   { id: '202301', name: '김민수', email: '202301@schoolmail.com', password: 'pw1234' },
   { id: '202302', name: '이지은', email: '202302@schoolmail.com', password: 'pw5678' },
   { id: '202303', name: '박서준', email: '202303@schoolmail.com', password: 'pw9999' },
+  { id: '202304', name: '이지수', email: '202304@schoolmail.com', password: 'pw5678' },
   // 여기에 더 추가 가능
 ];
 
